@@ -7,7 +7,7 @@ This repository contains a Python script that generates random nicknames by comb
 1. Clone the repository to your local machine.
 2. Make sure you have Python 3 installed.
 3. Navigate to the repository directory in your terminal.
-4. Run the following command: `python3 nickname_generator.py`.
+4. Run the following command: `python3 main.py`.
 5. Follow the instructions to choose a combination of word lists.
 6. The script will generate a list of nicknames and check their availability on a domain name registrar.
 
